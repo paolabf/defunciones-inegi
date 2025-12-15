@@ -51,8 +51,11 @@ Cómo ejecutar el análisis:
 2\. Ejecutar scripts en orden numérico:
 
 01-paquetes-datos
+
 02-manipulacion
+
 03-analisis-exploratorio
+
 04-vis
 
 
