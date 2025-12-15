@@ -50,23 +50,12 @@ Cómo ejecutar el análisis:
 
 2\. Ejecutar scripts en orden numérico:
 
-&nbsp;  - `00\_cargar\_catalogos.R`
-
-&nbsp;  - `01\_limpiar\_datos.R`
-
-&nbsp;  - `02\_analisis\_exploratorio.R`
-
-&nbsp;  - `03\_visualizaciones.R`
-
-&nbsp;  - `04\_documento\_hallazgos.R`
-
-
-
+01-paquetes-datos
+02-manipulacion
+03-analisis-exploratorio
+04-vis
 
 
 Autora: 
-
-
-
 Paola Berenzon Flores
 
