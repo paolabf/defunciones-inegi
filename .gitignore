@@ -1,0 +1,15 @@
+# Datos grandes del INEGI - NO subir
+01-datos/conjunto_de_datos_edr2024_csv/
+
+# Datos procesados grandes
+01-datos/homicidios_2024_limpio.csv
+
+# Archivos temporales de R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Archivos temporales
+~$*.docx
+*.tmp
